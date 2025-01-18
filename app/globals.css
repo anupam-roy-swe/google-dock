@@ -252,4 +252,8 @@ body {
       outline: 3px solid var(--purple);
     }
   }
+
+  html {
+    --title-font-family: 'Helvetica', sans-serif;
+  }
 }
